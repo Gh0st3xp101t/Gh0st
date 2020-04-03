@@ -1,0 +1,11 @@
+Gh0st est un script qui automatise la partie footprinting avec plusieurs scripts kali et personnel pour en faire un script d'automatisation du footprinting.
+
+Mettre kali linux à jour avec cette commande : apt-get update && apt-get upgrade && apt-get dist-upgrade 
+
+Mettre le contenu du fichier opt dans le dossier /opt 
+
+A installer pour le bon fonctionnement curl si vous avez une erreur: 
+sudo apt-get install php5-curl
+sudo apt-get install curl libcurl3 libcurl3-dev
+
+By Gh0st_3xp101t
